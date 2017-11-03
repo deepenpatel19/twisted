@@ -22,7 +22,7 @@ ENCODING = "LINEAR16"
 
 LANGUAGE_CODE = "en-US"
 
-SERVICE_ACCOUNT_FILE_PATH = '/home/deepen/Documents/deepen/key/Lintel_Technologies-16539c2b45c4.json'
+SERVICE_ACCOUNT_FILE_PATH = '<filepath of service account>'
 
 
 @implementer(IBodyProducer)

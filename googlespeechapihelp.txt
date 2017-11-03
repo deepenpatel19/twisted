@@ -1,0 +1,9 @@
+Example for usage :
+
+python googlespeechapi.py /home/deepen/Downloads/newaudio/welcome.wav
+
+Output :
+
+File Exists : /home/deepen/Downloads/newaudio/welcome.wav
+Success callback : <twisted.web._newclient.Response object at 0x7f75d9793828>
+Speech response : {'results': [{'alternatives': [{'confidence': 0.5769624, 'transcript': 'Hello, welcome do that again, Indiana. John Gotti Kalia it device to continue in English, please press 2 Malayalam full run, Mona matula.'}]}]}
